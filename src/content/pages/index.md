@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Alex Asavei
-tagline: Passionate Content Creator
+tagline: Artist, Creative Content Maker and Entrepreneur
 featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 cta:
   ctaText: Know more
